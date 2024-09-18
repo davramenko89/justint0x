@@ -12,6 +12,7 @@
   <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-db7092?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="chatgpt" src="https://img.shields.io/badge/-Chatgpt-CC6699?style=flat-square&logo=openai&logoColor=white" />
   <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-CB3837?style=flat-square&logo=apachespark&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=apachekafka&logoColor=white" />
   <img alt="Langchain" src="https://img.shields.io/badge/-Langchain-ea2845?style=flat-square&logo=Langchain&logoColor=white" />
   <img alt="next.js" src="https://img.shields.io/badge/-Next.js-764ABC?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -21,7 +22,6 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-EC4A3F?style=flat-square&logo=amazon&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="azure" src="https://img.shields.io/badge/-Azure-FB542B?style=flat-square&logo=&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
