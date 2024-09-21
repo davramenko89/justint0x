@@ -1,6 +1,8 @@
 
 ## Welcome to my profile 👏
 
+### Technical Stacks
+
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-F9A03C?style=flat-square&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
