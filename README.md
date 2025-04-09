@@ -36,12 +36,12 @@
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-ea2845?style=flat-square&logo=Jira&logoColor=white" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=justint0x&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=davramenko89&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justint0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justint0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justint0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justint0x&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davramenko89&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davramenko89&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davramenko89&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davramenko89&theme=github_dark)
 
 
 ************
